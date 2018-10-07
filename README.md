@@ -3,7 +3,6 @@ A fork of : https://github.com/knarka/fikaba
 
 http://kukuku.club is runing on this.
 
----
 ## 依赖：
 
 **仅测试运行于php5.6，建议使用此版本。**
@@ -11,7 +10,6 @@ http://kukuku.club is runing on this.
 debian8:
 
     # sudo apt-get install mysql-server php5 php5-mysql apache2
----
 
 ## 配置：
 
@@ -34,7 +32,6 @@ debian8:
 
     # chown -R www-data /var/www/$网站根目录 && chmod -R 777 /var/www/$网站根目录
 
----
 ## 安装：
 放入网站根目录后在浏览器中打开。
 
@@ -42,7 +39,6 @@ debian8:
 
 点击 管理 输入初始密码： REPLACEME  ，进入账户管理中建立新的管理员账号，完成后请退出登录会自动删除初始账号。
 
----
 ## LICENSE:
 
 同原（https://github.com/knarka/fikaba）为GPL V3
