@@ -41,4 +41,6 @@ debian8:
 
 ## LICENSE:
 
-同原（https://github.com/knarka/fikaba）为GPL V3
+同https://github.com/knarka/fikaba
+
+为GPL V3
